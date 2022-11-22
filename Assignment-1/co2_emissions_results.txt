@@ -1,0 +1,103 @@
+Albania,1.68504, GREEN
+Argentina,4.0583, YELLOW
+Austria,7.30384, ORANGE
+Azerbaijan,3.33501, YELLOW
+Belgium,8.23916, ORANGE
+Bangladesh,0.500664, GREEN
+Bulgaria,5.93539, ORANGE
+Bosnia and Herzegovina,6.45352, ORANGE
+Belarus,5.98127, ORANGE
+Bolivia,1.98482, GREEN
+Brazil,2.17366, GREEN
+Barbados,4.35367, YELLOW
+Bhutan,1.27782, GREEN
+Botswana,3.21221, YELLOW
+Central African Republic,0.0472599, GREEN
+Switzerland,4.55944, YELLOW
+Chile,4.69709, YELLOW
+China,7.31722, ORANGE
+Congo ,1.18303, GREEN
+Colombia,1.62604, GREEN
+Costa Rica,1.63598, GREEN
+Cuba,2.38645, GREEN
+Cyprus,6.0724, ORANGE
+Czech Republic,9.43098, ORANGE
+Germany,8.69328, ORANGE
+Denmark,5.73375, ORANGE
+Algeria,3.8954, YELLOW
+Egypt,2.48211, GREEN
+Spain,5.41408, ORANGE
+Finland,7.87928, ORANGE
+Fiji,1.77759, GREEN
+France,4.63535, YELLOW
+United Kingdom,5.63347, ORANGE
+Georgia,2.59083, YELLOW
+Ghana,0.600261, GREEN
+Equatorial Guinea,4.9113, YELLOW
+Greece,6.07083, ORANGE
+Guatemala,1.09366, GREEN
+Croatia,4.05935, YELLOW
+Hungary,4.63076, YELLOW
+Indonesia,2.02726, GREEN
+India,1.72965, GREEN
+Ireland,7.7773, ORANGE
+Iran,7.68421, ORANGE
+Iraq,4.08877, YELLOW
+Iceland,5.06352, ORANGE
+Israel,7.36435, ORANGE
+Italy,5.43749, ORANGE
+Jamaica,2.6617, YELLOW
+Japan,8.98146, ORANGE
+Libya,8.2172, ORANGE
+Sri Lanka,1.03723, GREEN
+Latvia,3.80278, YELLOW
+Morocco,1.80161, GREEN
+Madagascar,0.135823, GREEN
+Maldives,3.70119, YELLOW
+Mexico,3.71907, YELLOW
+Marshall Islands,2.99469, YELLOW
+North Macedonia,3.6739, YELLOW
+Mali,0.26647, GREEN
+Malta,3.28681, YELLOW
+Myanmar,0.535016, GREEN
+Montenegro,3.81864, YELLOW
+Mongolia,6.39072, ORANGE
+Mauritius,3.238, YELLOW
+Malaysia,7.70022, ORANGE
+Namibia,1.75249, GREEN
+Nigeria,0.578799, GREEN
+Netherlands,8.98292, ORANGE
+Norway,7.19249, ORANGE
+Nepal,0.422081, GREEN
+New Zealand,6.77882, ORANGE
+Pakistan,0.886261, GREEN
+Panama,2.67613, YELLOW
+Peru,1.76137, GREEN
+Philippines,1.23545, GREEN
+Poland,7.94633, ORANGE
+Korea,1.69562, GREEN
+Portugal,4.77313, YELLOW
+Paraguay,1.11369, GREEN
+Romania,3.76012, YELLOW
+Sudan,0.501084, GREEN
+Singapore,8.37967, ORANGE
+Solomon Islands,0.546865, GREEN
+El Salvador,1.10055, GREEN
+Somalia,0.0455065, GREEN
+Serbia,6.59346, ORANGE
+Suriname,4.57285, YELLOW
+Slovak Republic,5.88009, ORANGE
+Slovenia,6.64571, ORANGE
+Sweden,3.73169, YELLOW
+Syrian Arab Republic,1.55019, GREEN
+Thailand,3.78259, YELLOW
+Tajikistan,0.815371, GREEN
+Tunisia,2.62163, YELLOW
+Tanzania,0.216469, GREEN
+Ukraine,4.14219, YELLOW
+Uruguay,1.8792, GREEN
+Uzbekistan,3.34853, YELLOW
+Vietnam,2.73669, YELLOW
+South Africa,7.57975, ORANGE
+Zambia,0.373549, GREEN
+Zimbabwe,0.81438, GREEN

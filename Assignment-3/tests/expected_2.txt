@@ -1,0 +1,80 @@
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build schedule 
+ 2. Display Shows 
+ 3. Add Show 
+ 4. Add rating
+ 5. Quit 
++-----------------------+
+#> nothing in path
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build schedule 
+ 2. Display Shows 
+ 3. Add Show 
+ 4. Add rating
+ 5. Quit 
++-----------------------+
+#> Enter name of the show to add the rating: 
+Enter the rating: 
+Empty list
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build schedule 
+ 2. Display Shows 
+ 3. Add Show 
+ 4. Add rating
+ 5. Quit 
++-----------------------+
+#> Enter a new show name: 
+Enter the previous show name (or First): 
+adding: Ozark (HEAD)
+== CURRENT SHOWS LIST ==
+Ozark-> NULL
+===
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build schedule 
+ 2. Display Shows 
+ 3. Add Show 
+ 4. Add rating
+ 5. Quit 
++-----------------------+
+#> Enter a new show name: 
+Enter the previous show name (or First): 
+adding: Friends (prev: Ozark)
+== CURRENT SHOWS LIST ==
+Ozark-> Friends-> NULL
+===
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build schedule 
+ 2. Display Shows 
+ 3. Add Show 
+ 4. Add rating
+ 5. Quit 
++-----------------------+
+#> Enter name of the show to add the rating: 
+Enter the rating: 
+The rating has been updated: 4.5
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build schedule 
+ 2. Display Shows 
+ 3. Add Show 
+ 4. Add rating
+ 5. Quit 
++-----------------------+
+#> == CURRENT SHOWS LIST ==
+Ozark-> Friends-> NULL
+===
+Select a numerical option:
++=====Main Menu=========+
+ 1. Build schedule 
+ 2. Display Shows 
+ 3. Add Show 
+ 4. Add rating
+ 5. Quit 
++-----------------------+
+#> Quitting...
+Goodbye!

@@ -1,0 +1,26 @@
+*----------------------------------------*
+Choose an option:
+1. Enqueue new shows (Add shows to the queue)
+2. Dequeue (Retrieve shows from the queue)
+3. Return the queue size and exit
+*----------------------------------------*
+Enter the number of shows to be enqueued:
+Show1:
+Show2:
+Show3:
+*----------------------------------------*
+Choose an option:
+1. Enqueue new shows (Add shows to the queue)
+2. Dequeue (Retrieve shows from the queue)
+3. Return the queue size and exit
+*----------------------------------------*
+Enter the number of shows to be dequeued:
+Retrieved: Lightyear
+Retrieved: Top Gun
+*----------------------------------------*
+Choose an option:
+1. Enqueue new shows (Add shows to the queue)
+2. Dequeue (Retrieve shows from the queue)
+3. Return the queue size and exit
+*----------------------------------------*
+Number of shows in the queue:1

@@ -1,0 +1,10 @@
+Array doubled: 3
+Distinct # of movies except NC-17: 66
+Total # of movies excluding NC-17 ratings: 100
+Movie Ratings
+---------------------------------------
+1.000 Love and Death
+0.990 I Am Not Your Negro
+0.980 The Princess Bride
+0.980 Up
+0.930 The Boy and the World

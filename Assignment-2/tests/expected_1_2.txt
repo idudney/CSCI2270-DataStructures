@@ -1,0 +1,10 @@
+Array doubled: 0
+Distinct # of movies except R: 7
+Total # of movies excluding R ratings: 12
+Movie Ratings
+---------------------------------------
+0.720 Cinderella
+0.720 Tron
+0.580 The Odyssey
+0.530 Justice League
+0.330 Collide

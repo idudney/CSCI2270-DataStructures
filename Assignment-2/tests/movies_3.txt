@@ -1,0 +1,40 @@
+Cinderella	0.72	G
+Cinderella	0.72	G
+Cinderella	0.72	G
+Cinderella	0.72	G
+Cinderella	0.72	G
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Cinderella	0.72	G
+Tron	0.72	PG
+Scooby-Doo 2: Monsters Unleashed	0.22	PG
+Justice League	0.53	PG-13
+Collide	0.33	PG-13
+Inchon	0	PG
+The Odyssey	0.58	PG
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Borat	0.91	R
+Cinderella	0.72	G
+Tron	0.72	PG
+Scooby-Doo 2: Monsters Unleashed	0.22	PG
+Justice League	0.53	PG-13
+Collide	0.33	PG-13
+Inchon	0	PG
+The Odyssey	0.58	PG
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Borat	0.91	R
+The 9th Life of Louis Drax	0.52	R
+Captain America: Civil War	0.77	PG-13
+Bodied	0.74	R
+The Boy and the World	0.93	PG
+Little Nicky	0.21	PG-13

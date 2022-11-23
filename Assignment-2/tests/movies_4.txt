@@ -1,0 +1,100 @@
+Cinderella	0.72	G
+Cinderella	0.72	G
+Cinderella	0.72	G
+Cinderella	0.72	G
+Cinderella	0.72	G
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Cinderella	0.72	G
+Tron	0.72	PG
+Scooby-Doo 2: Monsters Unleashed	0.22	PG
+Justice League	0.53	PG-13
+Collide	0.33	PG-13
+Inchon	0	PG
+The Odyssey	0.58	PG
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Borat	0.91	R
+Cinderella	0.72	G
+Tron	0.72	PG
+Scooby-Doo 2: Monsters Unleashed	0.22	PG
+Justice League	0.53	PG-13
+Collide	0.33	PG-13
+Inchon	0	PG
+The Odyssey	0.58	PG
+Tropic Thunder	0.71	R
+The Foreigner	0.5	R
+Borat	0.91	R
+The 9th Life of Louis Drax	0.52	R
+Captain America: Civil War	0.77	PG-13
+Bodied	0.74	R
+The Boy and the World	0.93	PG
+Little Nicky	0.21	PG-13
+Star Wars: Episode VIII - The Last Jedi	0.84	PG-13
+Home Alone	0.66	PG
+Despicable Me 2	0.74	PG
+The SpongeBob Movie: Sponge Out of Water	0.81	PG
+Fantastic Beasts and Where to Find Them	0.68	PG-13
+The 5th Wave	0.43	PG-13
+Queen of Katwe	0.74	PG
+Incarnate	0.5	PG-13
+Dr. Strangelove	0.91	PG
+The Duelist	0.5	R
+Tinker Bell and the Legend of the NeverBeast	0.75	G
+The Great Wall	0.49	PG-13
+The Big Sick	0.83	R
+Thor: The Dark World	0.62	PG-13
+Murder by Death	0.65	PG
+Hands of Stone	0.53	R
+Wonder	0.85	PG
+Love and Death	1	PG
+The Snowman	0.31	R
+Coraline	0.9	PG
+The Disaster Artist	0.91	R
+The Divide	0.43	R
+Shrek the Third	0.5	PG
+Shrek	0.88	PG
+Bad Boys	0.51	R
+The Warriors	0.74	R
+John Wick: Chapter 2	0.89	R
+I Am Not Your Negro	0.99	PG-13
+The Cowboys	0.5	R
+Salty	0	R
+Star Wars: Episode III - Revenge of the Sith	0.8	PG-13
+Cars 2	0.5	G
+Absolutely Fabulous: The Movie	0.5	R
+My Golden Years	0.5	R
+Star Trek Into Darkness	0.74	PG-13
+Up	0.98	PG
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe or Narnia"	0.76	PG
+Lion	0.84	PG-13
+Kindergarten Cop	0.5	PG-13
+RoboCop	0.91	R
+The Princess Bride	0.98	PG
+Prince of the City	0.92	R
+Clerks	0.5	R
+DodgeBall: A True Underdog Story	0.71	PG-13
+Avatar	0.82	PG-13
+Una	0.67	R
+Jack Reacher: Never Go Back	0.38	PG-13
+The Room	0.34	R
+Safe	0.87	R
+Phantom of the Paradise	0.73	PG
+Dumb and Dumber To	0.3	PG-13
+Prince of the City	0.92	R
+Clerks	0.5	R
+DodgeBall: A True Underdog Story	0.71	PG-13
+Avatar	0.82	PG-13
+Una	0.67	R
+Jack Reacher: Never Go Back	0.38	PG-13
+The Room	0.34	R
+Safe	0.87	R
+Phantom of the Paradise	0.73	PG

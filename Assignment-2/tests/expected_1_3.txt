@@ -1,0 +1,10 @@
+Array doubled: 1
+Distinct # of movies except G: 14
+Total # of movies excluding G ratings: 33
+Movie Ratings
+---------------------------------------
+0.930 The Boy and the World
+0.910 Borat
+0.770 Captain America: Civil War
+0.740 Bodied
+0.720 Tron

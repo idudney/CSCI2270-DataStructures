@@ -1,0 +1,8 @@
+Array doubled: 0
+Distinct # of movies except PG-13: 3
+Total # of movies excluding PG-13 ratings: 15
+Movie Ratings
+---------------------------------------
+0.720 Cinderella
+0.710 Tropic Thunder
+0.500 The Foreigner
